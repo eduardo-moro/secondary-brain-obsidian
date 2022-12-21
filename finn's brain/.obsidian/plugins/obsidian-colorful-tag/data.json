@@ -1,0 +1,93 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {},
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      },
+      "name_": "machineLearning"
+    },
+    {
+      "attributes": {},
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 1
+      },
+      "name_": "tensorflow"
+    },
+    {
+      "attributes": {
+        "suffix": "]",
+        "remove-hash": "True"
+      },
+      "opened": true,
+      "enable": false,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 2
+      },
+      "name_": "["
+    },
+    {
+      "attributes": {
+        "suffix": " ]"
+      },
+      "opened": true,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 3
+      },
+      "name_": "[ "
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {
+      "prefix": null,
+      "background-color": "#1f9eff",
+      "text-color": "#ffffff",
+      "radius": "4px",
+      "suffix": null
+    },
+    "opened": true,
+    "enableList_": {
+      "prefix": true,
+      "background-color": true,
+      "text-color": true,
+      "radius": true,
+      "suffix": false
+    }
+  },
+  "UseTagDetail": true,
+  "MetaFileTagDetails": {
+    "Machine Learning With Python/0. Index - machine learning with python.md": [
+      "#tensorflow-57-6-7750",
+      "#python-57-18-7762",
+      "#machineLearning-57-26-7770"
+    ],
+    "Machine Learning With Python/1. Tensorflow/1.1. Introduction to Machine Learning Fundamentals.md": [
+      "#machineLearning-51-6-2547"
+    ],
+    "Introduction to TensorFlow.md": [
+      "#machineLearning-10-6-41",
+      "#tensorflow-10-23-58"
+    ],
+    "Machine Learning With Python/1. Tensorflow/1.2. Introduction to TensorFlow.md": [
+      "#machineLearning-50-6-1520",
+      "#tensorflow-50-23-1537"
+    ]
+  }
+}
